@@ -5,18 +5,19 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Experimental Books Workshop Catalogue"
-  author: "Experimental books conference participants"
-  date: "2023-02-20"
+  title: "Baroque TOC"
+  author: "Team Computational Publishing"
+  date: "2023-04-28"
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
     - paintings.ipynb
     - video.ipynb
     - baroque-ai.qmd
-  repo-url: https://github.com/NFDI4Culture/experimental-books-workshop
+  repo-url: https://github.com/NFDI4Culture/baroque-toc
   repo-actions: [edit]
   downloads: [pdf]
+  cover-image: cover/cover.jpg 
 
 # Quarto allows commenting using either Hypothesis or Utterances
 # https://quarto.org/docs/reference/projects/books.html#comments
