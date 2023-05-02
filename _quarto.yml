@@ -11,9 +11,10 @@ book:
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
+    - colophon.ipynb
+    - essay.qmd
     - paintings.ipynb
-    - video.ipynb
-    - baroque-ai.qmd
+    - video-3d.ipynb
   repo-url: https://github.com/NFDI4Culture/baroque-toc
   repo-actions: [edit]
   downloads: [pdf]
@@ -28,6 +29,8 @@ format:
   # options for HTML output
   # https://quarto.org/docs/reference/formats/html.html
   html:
+    code-fold: true
+    code-overflow: wrap
     number-sections: false
     # Quarto allows a number of pre-packaged themes for the HTML version
     # You can choose between them using the documentation at https://quarto.org/docs/output-formats/html-themes.html
