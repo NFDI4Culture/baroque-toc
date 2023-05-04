@@ -4,17 +4,15 @@ Step-by-step guide: [Automating Exhibition Catalogue Creation — A Guide](https
 
 2023-04-28 v1.0
 
-### Desccription
+### Description
 
-An exhibition catalogue prototype, created using an open-source computational [publishing toolset}(https://copim.pubpub.org/pub/scholarled-catalogue/release/1). The objective was to test automatic retrieval of remote media and linked open data sources and then auto‑typeseting the collated publication as multi‑format. The prototype is available for community reuse to enable others to make their own publications and is accompanied by a step‑by‑step guide.
+An exhibition catalogue prototype, created using an open-source computational [publishing toolset](https://copim.pubpub.org/pub/scholarled-catalogue/release/1). The objective was to test automatic retrieval of remote media and linked open data sources and then auto‑typeseting the collated publication as multi‑format. The prototype is available for community reuse to enable others to make their own publications and is accompanied by a step‑by‑step guide.
 
 A collaboration between Open Science Lab TIB, NFDI4Culture, and COPIM: 
 
 - [NFDI4Culture](https://nfdi4culture.de/) Task Area 4: Which is looking at which initiatives are enhancing their publications for open scholarship. Its aim is to establish a guideline for scholars to create publications and their associated data with a focus on long-term digital preservation.
 
 - [COPIM’s Computational Book Publishing Pilot Project](https://copim.pubpub.org/work-package-6): WP6 brings together publishers, technologists, researchers, and authors to devise strategies to promote experimental book publishing and the reuse of, and engagement with, open access books.  
-
-Example workshop publication: [toc Baroque /toc](https://simonxix.github.io/Experimental_Books_workshop/)
 
 ### Cite as 
 
