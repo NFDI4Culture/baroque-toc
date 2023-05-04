@@ -1,6 +1,8 @@
-## Baroque TOC: Automating Exhibition Catalogue Creation
+## Sample Exhibition Catalogue
 
-Step-by-step guide: [Automating Exhibition Catalogue Creation — A Guide](https://nfdi4culture.github.io/automating-exhibition-catalogue-creation-guide/)
+This is a sample publication to demostrate the automation of the publishing process.
+
+Here you can find a *step-by-step* guide to make your own catalogue: [Automating Exhibition Catalogue Creation — A Guide](https://nfdi4culture.github.io/automating-exhibition-catalogue-creation-guide/).
 
 2023-04-28 v1.0
 
